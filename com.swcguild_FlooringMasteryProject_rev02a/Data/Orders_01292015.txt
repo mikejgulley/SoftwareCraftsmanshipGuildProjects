@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+35,Gulley,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+208,Yeap,IN,6.0,Wood,44.44,5.15,4.75,228.87,211.09,26.4,466.36

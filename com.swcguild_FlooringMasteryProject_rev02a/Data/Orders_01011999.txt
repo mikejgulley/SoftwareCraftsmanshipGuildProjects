@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+228,sadf,MI,5.75,Tile,3434.0,3.5,4.15,12019.0,14251.1,1510.53,27780.63
+232,dsafadsafa,IN,6.0,Carpet,5858.0,2.25,2.1,13180.5,12301.8,1528.94,27011.24
+229,WAK,MI,5.75,,34343.0,1.75,2.1,60100.25,72120.3,7602.68,139823.23

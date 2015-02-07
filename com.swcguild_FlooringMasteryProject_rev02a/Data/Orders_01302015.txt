@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+231,asdf,,6.0,Wood,3.0,5.15,4.75,63576.75,58638.75,7332.93,129548.43
+233,DERP,MI,5.75,Laminate,34343.0,1.75,2.1,60100.25,72120.3,7602.68,139823.23
+236,SameGuy DifferentGuy,PA,6.75,Laminate,111.55,1.75,2.1,195.21,234.25,28.99,458.45
+237,STINKY Brinky,IN,6.0,Wood,333.11,5.15,4.75,1715.52,1582.27,197.87,3495.66

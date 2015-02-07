@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+122,Grampy McNampy,PA,6.75,Laminate,222.22,1.75,2.1,388.88,466.66,57.75,913.29
+123,CrayCRAYKitty,IN,6.0,Laminate,325.0,1.75,2.1,568.75,682.5,75.08,1326.33
+79,MEOW MEROW,OH,6.25,Laminate,321.0,1.75,2.1,561.75,674.1,77.24,1313.09126
+161,Bob,OH,6.25,Wood,100.0,5.15,4.75,515.0,475.0,61.88,1051.88
+209,Bob,OH,6.25,Wood,100.0,5.15,4.75,515.0,475.0,61.88,1051.88
+210,Bob,OH,6.25,Wood,100.0,5.15,4.75,515.0,475.0,61.88,1051.88
+211,Bob,OH,6.25,Wood,100.0,5.15,4.75,515.0,475.0,61.88,1051.88
